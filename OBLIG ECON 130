@@ -1,0 +1,58 @@
+\documentclass{article}
+\linespread{1.5}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{indentfirst}
+\usepackage{tikz}
+
+\title{OBLIG ECON 130}
+\author{ Sigbjørn fjelland }
+\date{April 2020}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\section{Oppgave}\label{Oppgave 1}
+\setlength{\parindent}{10ex}
+For å forså real valutakurs kan det være greit å svippe innom nominell valutakurs (E). Dette er prisen i aktører betaler for handle penger mellom seg. La oss her ta ett kjent eksempel kroner mot dollar (NOK/USD). I skrivende stund er den 10,47, som vil si vi betaler 10,47 for å kjøpe 1 dollar altså er E = 10,47. Ved å følge valuta kursen over tid, kan man forsøke å si noe om samhandlingen mellom to nasjoner, men spekulasjon og sentralbanker som intervenerer for å holde en fastkurs eller tak gjør at dette ikke nødvendigvis er riktig. Det er her nyttig å trekke inn en dimensjon til, nemlig forhold mellom pris. Dette fører oss til realvalutakursen, gitt ved utrykk (1) \ref{eq1}: \\
+
+\begin{align}\epsilon = E\cdot\frac{{P^F}}{P}\label{eq1}\end{align}
+\newline
+
+Real valuta er et utrykk for valuta som også tar hensyn til pris og prisutvikling i de respektive nasjonene. P er prisnivå på varer i hjemland, mens ${P^F}$ er pris hos motpart. Real valuta er altså relativt prisnivå mellom to land målt i egen valuta. En måte å betrakte det på er hvor mange varer byttes fra land til ett annet. Hvor mange laks fra Norge koster en appelsin i USA. Den kan altså endres av at enten nominell valuta styrker eller svekker seg eller at inflasjonen i de respektive land endres. Stiger (eller faller) inflasjonen mer i ett land enn det andre vil styrkeforholdet i prisingen endres ${\Delta P^F}$/${\Delta P}$.\\ 
+
+\label{konkurranseevne}
+For å definere hvordan realvalutakursen opptrer som konkurranseevne begrep må vi se på fundamentalt likevekts realvalutakurs. Det vil si at det må være balanse i handel med utland og internt i egen økonomi [Y = ${Y^n}$]. Er disse kriteriene konsistent er real valutakursen lik fundamentale likevekts realvalutakurs og konkurranse evnen er god. Dersom det\ u sep ack a ge { t i k z } er ubalanse mellom import/eksport og en forsøker å stabilisere ved å redusere innlands konsum vil BNP bli redusert ved å falle under potensiell BNP. Ett land med god konkurranse evne har pengepolitiske virkemiddel for stabilisere både BNP og nominell valuta. Er realvalutakursen høy kan en sette ned renten for å holde inflasjonmål og svekke nominell valutakurs. Slik kommer kostnadsnivået mot utland ned og en stabiliserer realvaluta mot fundamental likevekts kurs. Andre alternativ er økt offentlige investeringer for å trekke opp BNP mot potensiell BNP.
+
+Sparer p netto eksport
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=1.7]{universe}
+\caption{The Universe}
+\label{fig:universe}
+\end{figure}
+
+\section{Oppgave}
+\setlength{\parindent}{10ex}
+I valg av valuta regime vil det være et valg der en bytter noe for noe. Det som er godt egnet for handelsbalansen er ikke nødvendigvis egnet for konjunktursituasjonen nasjonalt. Det kan også få implikasjoner på rente og inflasjon og muligheten til å håndtere det.
+
+La oss ta fast valuta regime først. Sett at to land har en konjunktur som følger hverandre og varestrømmen er nogenlunde jevn, kan det være en grei løsning å pegge valutaen mot sin(e) hoved handlespartner, eller som Euro danne en union. Dette gir stabilitet i import eksport og det kan være hensiktsmessig å ha samme rentenivå som handelspartnerene da dette sikrer like vilkår for industrien. Eksempelet med Norge og Danmark som nevnt i boken\footnote{14.5 "Rentenivå og konjukturstyring" - Makroøkonomi [Steinar Holden]} Der Danmark trekkes frem som ett land med sammenfallende konjunktursituasjon som eurosonen og er derfor egnet til samme rentenivå, der Norge som råvareleverandør kan ligge i en konjektursykel for seg selv, siden vår hoved eksportvare er mer preget av verdens etterspørsel enn våre nærmeste nabo. Det er da nærliggende å tenke at Danmark kunne dratt veksler på å enten gått inn i euro eller avstemt danske kronen mot den, mens for Norge ville dette vert vanskelig. \label{norge2014} Vi kan her se for oss implikasjonene for Norge av et fastkurs regime mot Euro under oljeprisfallet i 2014. Det ville vert krevende og holdt valutakursen nede under høykonjunkturen forut for oljekrisen, renten hadde måtte vert svært lav relativ til renten i Europa (som i utgangspunktet var lav) og pengetrykkingen massiv for å øke likviditeten. Når oljeprisfallet kom måtte en gått motsatt vei, og påført norsk økonomi lav sysselsetting og høy rente samtidig. En liten valutta som kronen ville vert ett yndet mål for spekulasjon i så måte, som ofte fastkurs regimer er.  Selv Britisk pund har måttet kapitulere grunnet stadige angrep på valutaen fra spekulanter så seint som i 1992. Viss en i stede for pegging hadde vert i en valuta union som euro er man helt prisgitt at en går i takt med felleskapet, Hellas er forsatt sliter fortsatt med høy gjeld, renter og inflasjon målt i euro og en nasjonal økonomi som ikke står litt i forhold. Da Norge kunne justere sin konkurranseevne \ref{konkurranseevne} gjennom nominell valuta har ikke Hellas mulighet til dette.\\
+
+Fordelene med flytende valuta kurs er at man har ett en variabel til å justere på. Det vil være mindre stabilt for eksport/import industri siden de må forholde seg til svingningen i valuta mot sine  handelspartner, men de kan i noen grad tilpasse seg kortsiktig volatilitet med finansielle instrumenter\footnote{Valuta opsjoner, termin kontrakt og strukturerte produkt knapt utsteder selv forstår} som valutasikring. Den langsiktige valutakursen er tilsynelatende mer stabil og avhengig av fundamentale forhold, eksport og import industrien kan foreta prisjustering men det skjer ofte ihht de lengre trendene for valutakurs. I bytte mot svingningen i valuta får sentralbanken frigjort renter som et verktøy å justere egen økonomi, noe som kan demme opp for gjeldsbobler under høykonjuktur, stimulere økonomien ved lav sysselsetting. I mange tilfeller gir det en bedre mulighet for å optimalisere en økonomi da også den nominelle valutaen ofte drar i "riktig retning" som i eksemplet med norge under oljeprisfallet \ref{norge2014}.
+
+
+\section{Oppgave}
+\setlength{\parindent}{10ex}
+
+\section{Oppgave}
+
+\section{Oppgave} 
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
