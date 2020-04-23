@@ -115,9 +115,40 @@ Dersom vi hadde hatt en endring i en av de eksogene variablene ($\Delta{z^C}$, $
 \label{IS- Kurve}
 \end{figure}
 \newpage
-Neste komponent i IS-PK-RR modellen er phillips kurven
+Neste komponent i IS-PK-RR modellen er Phillips kurven (PK) som viser sammenhengen mellom BNP gapet $[\frac{Y-Y^n}{Y^n}]$, forventet inflasjon $\pi^e$ og eventuelt andre eksogene kostnads endringer $z^\pi$. PK kurven er dermed gitt ved:
+
+\begin{align}
+    \pi=\pi^e+\beta\cdot\frac{Y-Y^n}{Y^n}+z^\pi
+\end{align}\\
+
+\begin{center}
+der $\beta$ viser endring i inflasjon per $\Delta{Y^n}$.\\    
+\end{center}
+    
+
+\newline
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{enkel phillips kurve.png}
+\caption{Phillips Kurve med $z^\pi=0$}
+\label{Phillips - Kurve}
+\end{figure}
+
+En kuriositet ved inflasjon er at den i modellen for IS kurven er forventet inflasjon eksogen. I Phillips kurve er den endogen, mens i den samlede IS-PK modellen er den forventede inflasjonen eksogen. Dette er slik siden de som driver med omsetning av varer og tjenester har tillit til sentralbanken justerer renten slik at reel inflasjon, som er en endogen variabel, holder seg nogenlunde rundt inflasjonsmålet. Derfor vil ett sjokk i forventet inflasjon kunne bretraktes som en påvirking utenfra og er dermet eksogen. 
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{Negativt skift IS med PK .png}
+\caption{IS-PK Kurve med ett skift i IS grunnet fall i BNP}
+\label{IS-PK Kurve}
+\end{figure}
 
 
+Vi ser her for eksempel ett etterspørsels sjokk i en sentral næring (f.eks oljeservice) som skaper ett skift i IS kurven. For å tette BNP Gapet som har oppstått og den fallende inflasjonen blir renten satt ned fra $i_1$ til $i_2$\\
+\newpage
+
+Når vi er inne på bruk av rente som pengepolitisk virkemiddel er det naturlig å trekke inn den siste komponenten av IS-RR-PK kurven, nemlig Renteregelen (RR).
 
 \section{Oppgave}
 
@@ -125,4 +156,3 @@ Neste komponent i IS-PK-RR modellen er phillips kurven
 \bibliographystyle{plain}
 \bibliography{references}
 \end{document}
-
