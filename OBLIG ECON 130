@@ -36,9 +36,8 @@ For å forså real valutakurs kan det være greit å svippe innom nominell valut
 Real valuta er et utrykk for valuta som også tar hensyn til pris og prisutvikling i de respektive nasjonene. P er prisnivå på varer i hjemland, mens ${P^F}$ er pris hos motpart. Real valuta er altså relativt prisnivå mellom to land målt i egen valuta. En måte å betrakte det på er hvor mange varer byttes fra land til ett annet. Hvor mange laks fra Norge koster en appelsin i USA. Den kan altså endres av at enten nominell valuta styrker eller svekker seg eller at inflasjonen i de respektive land endres. Stiger (eller faller) inflasjonen mer i ett land enn det andre vil styrkeforholdet i prisingen endres ${\Delta P^F}$/${\Delta P}$.\\ 
 
 \label{konkurranseevne}
-For å definere hvordan realvalutakursen opptrer som konkurranseevne begrep må vi se på fundamentalt likevekts realvalutakurs. Det vil si at det må være balanse i handel med utland og internt i egen økonomi [Y = ${Y^n}$]. Er disse kriteriene konsistent er real valutakursen lik fundamentale likevekts realvalutakurs og konkurranse evnen er god. Dersom det\ u sep ack a ge { t i k z } er ubalanse mellom import/eksport og en forsøker å stabilisere ved å redusere innlands konsum vil BNP bli redusert ved å falle under potensiell BNP. Ett land med god konkurranse evne har pengepolitiske virkemiddel for stabilisere både BNP og nominell valuta. Er realvalutakursen høy kan en sette ned renten for å holde inflasjonmål og svekke nominell valutakurs. Slik kommer kostnadsnivået mot utland ned og en stabiliserer realvaluta mot fundamental likevekts kurs. Andre alternativ er økt offentlige investeringer for å trekke opp BNP mot potensiell BNP.
+For å definere hvordan realvalutakursen opptrer som konkurranseevne begrep må vi se på fundamentalt likevekts realvalutakurs. Det vil si at det må være balanse i handel med utland og internt i egen økonomi [Y = ${Y^n}$]. Er disse kriteriene konsistent er real valutakursen lik fundamentale likevekts realvalutakurs og konkurranse evnen er god. Dersom det er ubalanse mellom import/eksport og en forsøker å stabilisere ved å redusere innlands konsum vil BNP bli redusert ved å falle under potensiell BNP. Ett land med god konkurranse evne har pengepolitiske virkemiddel for stabilisere både BNP og nominell valuta. Er realvalutakursen høy kan en sette ned renten for å holde inflasjonmål og svekke nominell valutakurs. Slik kommer kostnadsnivået mot utland ned og en stabiliserer realvaluta mot fundamental likevekts kurs. Andre alternativ er økt offentlige investeringer for å trekke opp BNP mot potensiell BNP.
 
-Sparer p netto eksport
 
 
 
@@ -47,7 +46,7 @@ Sparer p netto eksport
 \setlength{\parindent}{10ex}
 I valg av valuta regime vil det være et valg der en bytter noe for noe. Det som er godt egnet for handelsbalansen er ikke nødvendigvis egnet for konjunktursituasjonen nasjonalt. Det kan også få implikasjoner på rente og inflasjon og muligheten til å håndtere det.
 
-La oss ta fast valuta regime først. Sett at to land har en konjunktur som følger hverandre og varestrømmen er nogenlunde jevn, kan det være en grei løsning å pegge valutaen mot sin(e) hoved handlespartner, eller som Euro danne en union. Dette gir stabilitet i import eksport og det kan være hensiktsmessig å ha samme rentenivå som handelspartnerene da dette sikrer like vilkår for industrien. Eksempelet med Norge og Danmark som nevnt i boken\footnote{14.5 "Rentenivå og konjukturstyring" - Makroøkonomi [Steinar Holden]} Der Danmark trekkes frem som ett land med sammenfallende konjunktursituasjon som eurosonen og er derfor egnet til samme rentenivå, der Norge som råvareleverandør kan ligge i en konjektursykel for seg selv. Norges hoved eksportvare er mer preget av verdens etterspørsel enn av EU, slik at det er vanskelig å finne en valuta som har sammenfallende konjuktur situasjon. Det er da nærliggende å tenke at Danmark kunne dratt veksler på å enten gått inn i euro eller avstemt danske kronen mot den, mens for Norge ville dette vert vanskelig. \label{norge2014} Vi kan her se for oss implikasjonene for Norge av et fastkurs regime mot Euro under oljeprisfallet i 2014. Det ville vert krevende og holdt valutakursen nede under høykonjunkturen forut for oljekrisen, renten hadde måtte vert svært lav relativ til renten i Europa (som i utgangspunktet var lav) og pengetrykkingen massiv for å øke likviditeten. Når oljeprisfallet kom måtte en gått motsatt vei, og påført norsk økonomi lav sysselsetting og høy rente samtidig. En liten valutta som kronen ville vert ett yndet mål for spekulasjon i så måte, som ofte fastkurs regimer er.  Selv Britisk pund har måttet kapitulere grunnet stadige angrep på valutaen fra spekulanter så seint som i 1992, så kunne fint skjedd med eksempelvis norge som er en liten åpen økonomi. Viss en i stede for pegging hadde vert i en valuta union som euro er man helt prisgitt at en går i takt med felleskapet, Hellas er forsatt sliter fortsatt med høy gjeld, siden de må følge pengepolitikken til resten av EU som ikke er i samme situasjon. Renter og inflasjon målt i euro og en nasjonal økonomi som ikke står litt i forhold. Da Norge kan justere sin konkurranseevne (\ref{konkurranseevne}) gjennom nominell valuta har ikke Hellas mulighet til dette.\\
+La oss ta fast valuta regime først. Sett at to land har en konjunktur som følger hverandre og varestrømmen er nogenlunde jevn, kan det være en grei løsning å pegge valutaen mot sin(e) hoved handlespartner, eller som Euro danne en union. Dette gir stabilitet i import eksport og det kan være hensiktsmessig å ha samme rentenivå som handelspartnerene da dette sikrer like vilkår for industrien. Eksempelet med Norge og Danmark som nevnt i boken\footnote{14.5 "Rentenivå og konjukturstyring" - Makroøkonomi [Steinar Holden]} Der Danmark trekkes frem som ett land med sammenfallende konjunktursituasjon som eurosonen og er derfor egnet til samme rentenivå, der Norge som råvareleverandør kan ligge i en konjektursykel for seg selv. Norges hoved eksportvare er mer preget av verdens etterspørsel enn av EU, slik at det er vanskelig å finne en valuta som har sammenfallende konjunktur situasjon. Det er da nærliggende å tenke at Danmark kunne dratt veksler på å enten gått inn i euro eller avstemt danske kronen mot den, mens for Norge ville dette vert vanskelig. \label{norge2014} Vi kan her se for oss implikasjonene for Norge av et fastkurs regime mot Euro under oljeprisfallet i 2014. Det ville vert krevende og holdt valutakursen nede under høykonjunkturen forut for oljekrisen, renten hadde måtte vert svært lav relativ til renten i Europa (som i utgangspunktet var lav) og pengetrykkingen massiv for å øke likviditeten. Når oljeprisfallet kom måtte en gått motsatt vei, og påført norsk økonomi lav sysselsetting og høy rente samtidig. En liten valutta som kronen ville vert ett yndet mål for spekulasjon i så måte, som ofte fastkurs regimer er.  Selv Britisk pund har måttet kapitulere grunnet stadige angrep på valutaen fra spekulanter så seint som i 1992, så kunne fint skjedd med eksempelvis Norge som er en liten åpen økonomi. Viss en i stede for pegging hadde vert i en valuta union som euro er man helt prisgitt at en går i takt med felleskapet, Hellas er forsatt sliter fortsatt med høy gjeld, siden de må følge pengepolitikken til resten av EU som ikke er i samme situasjon. Renter og inflasjon målt i euro og en nasjonal økonomi som ikke står litt i forhold. Da Norge kan justere sin konkurranseevne (\ref{konkurranseevne}) gjennom nominell valuta har ikke Hellas mulighet til dette.\\
 
 Fordelene med flytende valuta kurs er at man har en ekstra variabel til å justere på. Det vil være mindre stabilt for eksport/import industri siden de må forholde seg til svingningen i valuta mot sine  handelspartner, men de kan til en viss grad tilpasse seg kortsiktig volatilitet med finansielle instrumenter\footnote{Valuta opsjoner, termin kontrakt og strukturerte produkt knapt utsteder selv forstår} som valutasikring. Den langsiktige valutakursen er tilsynelatende mer stabil og avhengig av fundamentale forhold, eksport og import industrien kan foreta prisjustering men det skjer ofte i henhold til de lengre trendene for valutakurs. I bytte mot svingningen i valuta får sentralbanken frigjort renter som et pengepolitisk verktøy til  å justere egen økonomi. Dette kan anvendes til mye, blant annet demme opp for gjeldsbobler under høykonjunktur, stimulere økonomien ved lav sysselsetting og stabilisere inflasjon. I mange tilfeller gir det en bedre mulighet for å optimalisere en økonomi da også den nominelle valutaen ofte drar i "riktig retning" som i eksemplet med Norge under oljeprisfallet i 2014 (\ref{norge2014}).
 
@@ -72,15 +71,16 @@ T&=z^T +tY    &  0 &< t<1\\
 som også inkluderer realrente ledd ${c_2}(i-\pi^e)$ og  ${b_2}(i-\pi^e)$ i konsum og investerings funksjonen for å kunne studere hvilke påvirkning pengepolitikk får på  BNP. Satt sammen får vi følgende utrykk:\\
 \begin{align*}
     Y&=\underbrace{(z^C +{c_1}(Y-\overbrace{(z^{T} +tY)}^\text{T - Nettoskatt})-{c_2}(i-\pi^e))}_ \text{C - Privat Konsum}+\underbrace{({b_1}Y-{b_2}(i-\pi^e))}_\text{I - Private investeringer}+G\xleftarrow[Konsum]{Offentlig}\\
-     &= z^C +{c_1}Y-c_1z^T-c_1tY-c_2(i-\pi^e)+{b_1}Y-{b_2}(i-\pi^e))+G
+     &= z^C +{c_1}Y-c_1z^T-c_
+     1tY-c_2(i-\pi^e)+{b_1}Y-{b_2}(i-\pi^e))+G
 \end{align*}
 \begin{align*}
-     \Rightarrow{}Y-c_1Y-c_1tY-b_1Y = Y({1-c_1(1-t)-b_1})=(z^C-c_1\cdotz^T-c_2(i-\pi^e)+z^I-b_2(i-\pi^e)+G)
+     \Rightarrow{}Y-c_1Y-c_1tY-b_1Y = Y({1-c_1(1-t)-b_1})=(z^C-c_1\cdot{z^T}-c_2(i-\pi^e)+z^I-b_2(i-\pi^e)+G)
 \end{align*}
 \newline
 Dette fører oss til IS ligningen:\\
 \begin{align}
-    \Rightarrow{}\underline{Y=\frac{1}{1-c_1(1-t)-b_1}\cdot(z^C-c_1\cdotz^T-c_2(i-\pi^e)+z^I-b_2(i-\pi^e)+G)}
+    \Rightarrow{}\underline{Y=\frac{1}{1-c_1(1-t)-b_1}\cdot(z^C-c_1\cdot{z^T}-c_2(i-\pi^e)+z^I-b_2(i-\pi^e)+G)}
 \end{align}\\
 \newpage
 Viss vi ser på IS kurven under registrer vi at den har en negativ helling relativ til endring i renter. Lav rente $\rightarrow{}$høy BNP. 
@@ -126,7 +126,6 @@ der $\beta$ viser endring i inflasjon per $\Delta{Y^n}$.\\
 \end{center}
     
 
-\newline
 
 \begin{figure}[h!]
 \centering
@@ -148,9 +147,77 @@ En kuriositet ved inflasjon er at den i modellen for IS kurven er forventet infl
 Vi ser her for eksempel ett etterspørsels sjokk i en sentral næring (f.eks oljeservice) som skaper ett skift i IS kurven. For å tette BNP Gapet som har oppstått og den fallende inflasjonen blir renten satt ned fra $i_1$ til $i_2$\\
 \newpage
 
-Når vi er inne på bruk av rente som pengepolitisk virkemiddel er det naturlig å trekke inn den siste komponenten av IS-RR-PK kurven, nemlig Renteregelen (RR).
+Når vi er inne på bruk av rente som pengepolitisk virkemiddel er det naturlig å trekke inn den siste komponenten av IS-RR-PK kurven, nemlig Renteregelen (RR). Renteregelen er gitt mattematisk ved:
 
-\section{Oppgave}
+\begin{align}
+    i=z^i+d_1(\pi-\pi^*)+d_2\cdot\frac{Y-Y^n}{Y^n}
+\end{align}\\
+
+Hvor $d_1$ og $d_2$ er hvor mye sentralbanken vektlegger hhv inflasjon og BNP mål. Og så lenge inflasjon er på inflasjonsmål ($(\pi-\pi^*)+$  og ($Y-Y^n$) er det bare eksogene impulser ($z^i$) som kan forrykke den, slik det har vert etter finans krisen. Norge har måttet holde en kunstig lav rente fordi vår hoved handelspartner EU har slitt med lav vekst og dermed renter ned mot null. Grafisk ser vi at rente kurvne er stigend
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{IS-RR.png}
+\caption{IS-RR Kurve med ett skift i IS grunnet fall i BNP og en rentenedsettelse fra sentralbanken for å komme ned igjen på rentekurven}
+\label{IS-RR Kurve}
+\end{figure}
+
+\newpage
+Siden renten har implikasjoner på mange lag av samfunnet er sentralbanken forsiktig når de hever den, derfor er vanlig praksis å heve trinvis og sakte for å måle eventuell effekt. Renten påvirker som kjent gjennom tre kanaler. Etterspørsel, valuta og forventning. En rente nedsettelse vil gi bedre handlingsrom for næringer og husholdninger med gjeld. Dette gir økt etterspørsel, men kan også stimulere for mye og øke gjeldstakten for mye. For for norsk valuta vil dette ha en svekkende effeskt, som gir økt konkurransekraft (realvaluta), men økt inflasjon siden import blir dyrere. Rente endring kan også gi en forventning om at prisene skal øke som følge av valuta effekten. Forventet inflasjon impliserer forventning at kjøpekraft skal ivaretas gjennom lønnsøke.\\
+
+
+Vi har nå alle komponentene i IS-RR-PK modellen. Mattematisk har vi tre ligninger og tre ukjente. Vi ønsker å implementere inflasjon fra Phillips kurven for å unngå å måtte gå i to diagram når vi skal analysere modellen:
+
+\begin{align*}
+    Y&=\frac{1}{1-c_1(1-t)-b_1}\cdot(z^C-c_1\cdot^T-c_2(i-\pi^e)+z^I-b_2(i-\pi^e)+G)\\\\
+    i&=z^i+d_1(\pi-\pi^*)+d_2\cdot\frac{Y-Y^n}{Y^n}\\\\
+    \pi&=\pi^e+\beta\cdot\frac{Y-Y^n}{Y^n}+z^\pi\\\\
+    &\text{vi substituerer PK funksjonen inn i RR:}\\\\
+    \Rightarrow{}i&=z^i+d_1([\pi^e+\beta\cdot\frac{Y-Y^n}{Y^n}+z^\pi]-\pi^*)+d_2\cdot\frac{Y-Y^n}{Y^n}\\\\
+    &=z^i+d_1(\pi^e-\pi^*)+d_1z^\pi+(d_1\beta+d_2)\cdot\frac{Y-Y^n}{Y^n}\\\\
+\end{align*}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{IS-RR-PK Enkel.png}
+\caption{IS-RR-PK med PK implementert i RR. Vil ti forveksling være lik IS-PK kurve}
+\label{IS-RR-PK Kurve}
+\end{figure}
+
+\newpage
+Hva skjer så ved ett etterspørsels sjokk i oljeservice. En kan rent intuitivt tenke at ett brått fall i olje service, som er en stor og viktig næring i Norge vil føre til to ting. Økt arbeidsledighet og en redusert BNP. Men la oss se litt på mattematikken bak:\\
+
+Vi legger til grunn at $N$ blir redusert og antar at produktiviteten $A$ er konstant. Ser vi på den enkle produktfunksjonen $Y=A\cdot{N}$ at BNP skal falle med økt ledighet. Videre ser vi hvilke implikasjoner det har på inflasjon
+\begin{align*}
+    \text{BNP Gap:}&    &\frac{Y-Y^n}{Y^n}\\\\
+    \text{Ledighets Gap:}&   &u-u^n\\\\
+    \end{align*}
+\begin{align*}
+    \text{der $u=\frac{L-N}{L}$}&   &\text{og $u^n=\frac{L-N^n}{L}$}
+\end{align*}
+\begin{center}
+    substituerer vi inn $u$ og $u^n$ inn i $u-u^n$
+\end{center}
+\begin{align*}
+    \Rightarrow{}u-u^n=\frac{L-N}{L}-\frac{N-n^n}{L^n}=\frac{N-N^n-L-L}{L}=-\frac{N-N^n}{L}
+\end{align*}
+\newline
+\begin{center}
+     vi snur så produktfunksjon $Y=A\cdot{N}$ substituerer inn $N=\frac{Y}{A}$
+\end{center}
+\begin{align*}
+     \Rightarrow{}u-u^n=&-\frac{\frac{Y}{A}-\frac{Y^n}{A}}{L}=-\frac{Y-Y^n}{A\cdot{L}}=-\frac{Y-Y^n}{A\cdot{L}}\cdot\frac{Y^n}{Y^n}\\\\
+     =&-\underbrace{\frac{Y^n}{A\cdot{L}}}_\beta\cdot\underbrace{\frac{Y-Y^n}{Y^n}}_{BNP-Gap}
+\end{align*}
+\newline
+    
+    Vi kjenner igjen utrykkene som BNP Gap og $\beta$ faktor fra Philips modellen og ser det er en klar sammenheng mellom sysselsetting $N$ og utviklingen av inflasjon $\pi$. Reduseres $N$, reduseres samtidig $Y$ og dermet øker differansen mellom potensiell og faktisk BNP som i sin tur reduserer inflasjon. Vi kan dermed legge til grunn lavere inflasjon.
+
+
+
+
+
+
+
 
 
 \bibliographystyle{plain}
