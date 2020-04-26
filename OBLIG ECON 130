@@ -119,7 +119,7 @@ Neste komponent i IS-PK-RR modellen er Phillips kurven (PK) som viser sammenheng
 
 \begin{align}
     \pi=\pi^e+\beta\cdot\frac{Y-Y^n}{Y^n}+z^\pi
-\end{align}\\
+\end{align}
 
 \begin{center}
 der $\beta$ viser endring i inflasjon per $\Delta{Y^n}$.\\    
@@ -144,16 +144,16 @@ En kuriositet ved inflasjon er at den i modellen for IS kurven er forventet infl
 \end{figure}
 
 
-Vi ser her for eksempel ett etterspørsels sjokk i en sentral næring (f.eks oljeservice) som skaper ett skift i IS kurven. For å tette BNP Gapet som har oppstått og den fallende inflasjonen blir renten satt ned fra $i_1$ til $i_2$\\
+Vi ser her for eksempel ett etterspørsels sjokk i en sentral næring (f.eks oljeservice) som skaper ett skift i IS kurven. For å tette BNP Gapet som har oppstått og den fallende inflasjonen blir renten satt ned fra $i_1$ til $i_2$
 \newpage
 
 Når vi er inne på bruk av rente som pengepolitisk virkemiddel er det naturlig å trekke inn den siste komponenten av IS-RR-PK kurven, nemlig Renteregelen (RR). Renteregelen er gitt mattematisk ved:
 
 \begin{align}
     i=z^i+d_1(\pi-\pi^*)+d_2\cdot\frac{Y-Y^n}{Y^n}
-\end{align}\\
+\end{align}
 
-Hvor $d_1$ og $d_2$ er hvor mye sentralbanken vektlegger hhv inflasjon og BNP mål. Og så lenge inflasjon er på inflasjonsmål ($(\pi-\pi^*)+$  og ($Y-Y^n$) er det bare eksogene impulser ($z^i$) som kan forrykke den, slik det har vert etter finans krisen. Norge har måttet holde en kunstig lav rente fordi vår hoved handelspartner EU har slitt med lav vekst og dermed renter ned mot null. Grafisk ser vi at rente kurvne er stigend
+Hvor $d_1$ og $d_2$ er hvor mye sentralbanken vektlegger hhv inflasjon og BNP mål. Og så lenge inflasjon er på inflasjonsmål ($(\pi-\pi^*)$  og ($Y-Y^n$) er det bare eksogene impulser ($z^i$) som kan forrykke den, slik det har vert etter finans krisen. Norge har måttet holde en kunstig lav rente fordi vår hoved handelspartner EU har slitt med lav vekst og dermed renter ned mot null. Grafisk ser vi at rente kurvne er stigend
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.6]{IS-RR.png}
@@ -163,7 +163,7 @@ Hvor $d_1$ og $d_2$ er hvor mye sentralbanken vektlegger hhv inflasjon og BNP m�
 
 \newpage
 Siden renten har implikasjoner på mange lag av samfunnet er sentralbanken forsiktig når de hever den, derfor er vanlig praksis å heve trinvis og sakte for å måle eventuell effekt. Renten påvirker som kjent gjennom tre kanaler. Etterspørsel, valuta og forventning. En rente nedsettelse vil gi bedre handlingsrom for næringer og husholdninger med gjeld. Dette gir økt etterspørsel, men kan også stimulere for mye og øke gjeldstakten for mye. For for norsk valuta vil dette ha en svekkende effeskt, som gir økt konkurransekraft (realvaluta), men økt inflasjon siden import blir dyrere. Rente endring kan også gi en forventning om at prisene skal øke som følge av valuta effekten. Forventet inflasjon impliserer forventning at kjøpekraft skal ivaretas gjennom lønnsøke.\\
-
+\clearpage
 
 Vi har nå alle komponentene i IS-RR-PK modellen. Mattematisk har vi tre ligninger og tre ukjente. Vi ønsker å implementere inflasjon fra Phillips kurven for å unngå å måtte gå i to diagram når vi skal analysere modellen:
 
@@ -209,17 +209,20 @@ Vi legger til grunn at $N$ blir redusert og antar at produktiviteten $A$ er kons
      =&-\underbrace{\frac{Y^n}{A\cdot{L}}}_\beta\cdot\underbrace{\frac{Y-Y^n}{Y^n}}_{BNP-Gap}
 \end{align*}
 \newline
-    
-    Vi kjenner igjen utrykkene som BNP Gap og $\beta$ faktor fra Philips modellen og ser det er en klar sammenheng mellom sysselsetting $N$ og utviklingen av inflasjon $\pi$. Reduseres $N$, reduseres samtidig $Y$ og dermet øker differansen mellom potensiell og faktisk BNP som i sin tur reduserer inflasjon. Vi kan dermed legge til grunn lavere inflasjon.
+    Vi kjenner igjen utrykkene som BNP Gap og $\beta$ faktor fra Philips modellen og ser det er en klar sammenheng mellom sysselsetting $N$ og utviklingen av inflasjon $\pi$. Reduseres $N$, reduseres samtidig $Y$ og dermet øker differansen mellom potensiell og faktisk BNP som i sin tur reduserer inflasjon. Vi kan dermed legge til grunn at det vil føre til lavere inflasjon. Intuitivt kan en tenke at etterspørsel etter varer synker som følge av ferre folk i arbeid fører til mindre konsum (C) som i sin tur fører til lavere pris stigning på sikt. Det vil også dempe 
+    For å forsøke å dempe fallet i BNP sentralbanken senke renten ned til sin rentekurven\footnote{Jeg forenklet med å anta at produktiviteten er konstant. Det vil det si at BNP og N faller proporsjonalt, ergo står potensiell BNP også fast. Vi er derfor inne i en lav konjunktur som skal rette seg opp. Ved vedvarende kriser over tid vil gjerne produktiviteten falle, og dermed også potensiell BNP. Dette ville så tilfelle fått implikasjoner på at rentekurven forskyves og ytterligere rentesenking er naturlig}, men neppe lengre. Resten blir opp til økonomien og finanspolitikken å eventuelt løse. Rente senkingen vil bidra til både til både økte private investeringer og konsum og i Norge har det tverrpolitisk aldri vert noe problem med å øke pengebruken i krise tider, i tilleg vil nominell valuta komme ned siden innskudd renten er lav og bedre konkurranse evnen for ikke olje relatert næring.\\
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{Fall i Oljeservice.png}
+\caption{IS-RR-PK Etter fall i Oljeservice}
+\label{Fall i oljeservice}
+\end{figure}\\
+\clearpage
 
 
+\section{Oppgave}
+Gitt kriteriene jeg la til grunn i oppgave 3, som var at forventet inflasjon, produktiviteten og dermed også potensiell BNP er nådd, vil en ikke nå full sysselsetting ved å forholde seg til RR. Vi har fortsatt et BNP Gap $(\frac{Y_3-Y^n}{Y})$, men mindre enn fra $y_2$. Dette innebærer som vist i sammenhengen mellom BNP Gap og sysselsetting at full sysselsetting gitt fortsettingene. Det er usikkert om sentralbanken med å senke rente lavt nok ned kan få sysselsettingen under likevektsledighet og ned til null, men i teorien er det mulig. Det er derimot ikke ønskelig for sentralbanken. Sentralbankens mål\footnote{Mål og virkemidler i pengepolitikken - Norges Banks hjemmeside:https://www.norges-bank.no/tema/pengepolitikk/Mandat-oppgaver-pengepolitikk/} er i henhold til sentralbankloven å holde stabil pengeverdi gjennom lav stabil inflasjon. De har et inflasjonsmål på nær 2 prosent over tid, og det er deres primære mål. Så det er ingen tvil om at inflasjon trumfer det meste på lengre sikt. Men videre sier de at ved større forstyrrelser må gjøre en "rimelig avveiing" mellom høy stabil produksjon og sysselsetting. De skriver også at det er viktig å gå varsomt frem, hvilket taler for å senke renten ned til opprinnelig rente kurve gitt at ledighetsraten $u$ ikke er langt over likevektsledigheten $u^n$. De sier til slutt at i situasjoner med særlig ugunstig utfall eller tilliten til at inflasjon skal holdes lav og stabil (les: troverdig inflasjonsmål) kan det være riktig å reagere kraftigere i rentesetting en vanlig. Kort forklart det finnes ett handlingsrom, og en kan gå ned en kurve på RR, dersom en ser det nødvendig i denne spesielle krisen, men ikke nødvendigvis, det avhenger av hvor stor ledigheten er siden inflasjonsmålet er sammenhengen $\pi^*=\pi+b(u-u^n)$ og sysselsetting utgjør en komponent. For stort avvik tolereres ikke da det går ut over stabil inflasjon.
 
+Dersom man skal realisere full sysselsetting vil det si a man skal ha lavere ledighet en likevekts ledighet. Dette er unaturlig siden likevekts ledighet egentlig bare gjenspeiler den naturlige turn-over som balansere mellom lønn og prisnivå. Som vi ser av sammenhengen over snudd $\pi=\pi^*-b(u-u^n)$ vil en tilstand av ledighetsrate under likevektsnivå drive inflasjonen oppover. Sjokk er ofte av en midlertidige art, oljeservice næringen kan komme tilbake innen rimelig tid og ha behov for å ta tilbake noen av de ansatte, i tillegg vil andre mekanismer ivareta de som ikke raskt omstiller seg. Og for ikke å glemme at også et slikt sjokk vil redusere kronekursen og lønningene, og dermed vår konkurransekraft, andre næringer kan fortsatt gå bra. Disse vil absorbere den arbeidskraften som er til overs, slik sett er likevektsledigheten som nevnt over en nødvendighet for at vi skal ha omstillingsevne og dynamikk i arbeidsmarkedet. En overkompensasjon fra sentralbanken, eller via finanspolitikk vil øydelegge for flyten og mobiliteten i arbeids stokken.  
 
-
-
-
-
-
-\bibliographystyle{plain}
-\bibliography{references}
 \end{document}
